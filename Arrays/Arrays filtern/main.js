@@ -1,5 +1,7 @@
 "use strict";
 
+// Arrays Filtern
+
 let zahlen = [12, 23, 34, 77, 2, 32, 9, 55, 43, 11, 1];
 
 let ergebnis = zahlen.filter((zahlen) => zahlen > 20);
