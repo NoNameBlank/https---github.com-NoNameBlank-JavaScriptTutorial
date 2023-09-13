@@ -12,13 +12,13 @@ let mein_objekt = {
     alter: 26
 };
 
-console.log(mein_array);
-console.log(mein_objekt);
+ console.log(mein_array);
+ console.log(mein_objekt);
 
 // for-in  Schleife durchläuft die Eigenschaften eines Objekts
 
 for (let e in mein_array){
-    console.log(e);
+  console.log(e);
 }
 
 for (let e in mein_objekt){
