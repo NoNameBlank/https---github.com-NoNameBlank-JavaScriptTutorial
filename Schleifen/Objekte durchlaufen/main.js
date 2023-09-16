@@ -12,6 +12,7 @@ let mein_objekt = {
 // }
 
 // .entries() gibt die Key/Value paare (Eigenschaften/Werte paare). Es wird ein 2-Dimensionales Arrays zurück gegben
+
 /*
 let paare = Object.entries(mein_objekt);
 console.log(paare);
